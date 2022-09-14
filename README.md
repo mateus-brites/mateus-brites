@@ -2,8 +2,7 @@
 
 - 📗 Estou estudando Back-end e pretendo me tornar um Full Stack
 - 📫 Email: mateusmmo15@gmail.com
-- 👷 Linkedin: https://www.linkedin.com/in/mateus-henrique-6405771a8/
-- 📋 Notion: https://www.notion.so/Javascript-7c745fbc93794417930af1c5d3253d84 
+- 👷 Linkedin: https://www.linkedin.com/in/mateus-henrique-6405771a8/ 
 
  <div>
   <a href="https://github.com/mateus-brites">
