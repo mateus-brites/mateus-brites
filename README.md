@@ -1,6 +1,5 @@
 ## Fico feliz em te ver por aqui 💖
 
-- 📗 Estou estudando Back-end e pretendo me tornar um Full Stack
 - 📫 Email: mateusmmo15@gmail.com
 - 👷 Linkedin: [MATEUS BRITES](https://www.linkedin.com/in/mateus-brites/)
 
